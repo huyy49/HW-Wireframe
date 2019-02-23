@@ -11,11 +11,11 @@ body {
     font-size: 18px;
 }
 
-Header, Nav, Section, Aside, Footer {
+head, Nav, Section, Aside, Footer {
     background: #ebebeb;
 }
 
-header, nav, footer {
+head, nav, footer {
     padding: 20px;
     margin: 5px 0;
 }
