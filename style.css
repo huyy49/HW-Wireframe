@@ -11,11 +11,11 @@ body {
     font-size: 18px;
 }
 
-head, Nav, Section, Aside, Footer {
-    background: #ebebeb;
+header, Nav, Section, Aside, Footer {
+    background-color: #ebebeb;
 }
 
-head, nav, footer {
+header, nav, footer {
     padding: 20px;
     margin: 5px 0;
 }
@@ -24,7 +24,7 @@ head, nav, footer {
 section {
     float: left;
     margin: 20px 0 20px 0;
-    height: 205px; 
+    height: 205px;
     width: 495px;
     padding: 20px 20px 20px;
 }
@@ -53,7 +53,7 @@ div {
 aside {
     float: left;
     width: 365px;
-    height: 195px; 
+    height: 195px;
     margin: 20px 0 20px 20px;
     /* width: 495px; */
     padding: 30px 20px 20px;
